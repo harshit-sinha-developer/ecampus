@@ -1,0 +1,55 @@
+*{
+	padding:0px;
+	margin:0px;
+	
+}
+
+body h1{
+	text-align:center;
+}
+.menu{
+	height:50px;
+	width:100%;
+	background:#FF915B;
+}
+.nav_bar{
+	height:50px;
+	width:80%;
+	background:#AE5700;
+	margin:auto;
+
+}
+.nav_bar ul{
+	
+	height:50px;
+}
+.nav_bar ul li{
+	display:block;
+	float:left;
+	padding:16px;
+	
+
+}
+
+.nav_bar ul li:hover{
+	background:#300;
+	
+	
+}
+.nav_bar ul li:hover a{
+	
+	color:#FFF;
+	
+}
+
+a{
+	text-decoration:none;
+}
+
+.main{
+	text-align:center;
+	width:80%;
+	height:800px;
+	margin:auto;
+	background:#FF915B;
+}

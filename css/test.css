@@ -1,0 +1,64 @@
+.body_test
+{
+	width:100%;
+	padding:10px;
+	float:left;
+}
+.test_container
+{
+	width:70%;
+	margin:auto;
+	color:white;
+	background-color:red;
+	border-radius:20px;
+	box-shadow:0px 0px 20px blue;
+}
+.test_head
+{
+	width:100%;
+	color:white;
+	height:60px;
+	padding-top:20px;
+	background-color:green;
+	border-top-left-radius:20px;
+	border-top-right-radius:20px;
+	float:left;
+	margin-bottom:20px;
+}
+.test_head_left
+{
+	margin-left:30px;
+	float:left;
+}
+.test_head_right
+{
+	float:right;
+	margin-right:30px;
+}
+.test_body
+{
+	padding:20px;
+	width:100%;
+}
+.ques
+{
+	font-size:18px;
+	padding:2px;
+	margin-left:5px;
+	margin-top:2px;
+	margin-bottom:0px;
+}
+.query
+{
+	margin-top:2px;
+	margin-bottom:0px;
+}
+.opt
+{
+	margin:1px;
+	padding:1px;
+}
+.rad
+{
+	margin-right:2px;
+}

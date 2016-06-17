@@ -1,0 +1,30 @@
+.left{
+	width:50%;
+	float:left;
+	border-right:1px solid black;
+	height:100px;
+}
+.right{
+	width:47%;
+	float:right;
+	height:100px;
+	
+}
+.txt{
+	width:300px;
+	height:30px;
+	padding:5px;
+}
+.but{
+	width:40px;
+	height:30px;
+	padding:5px;
+}
+.msg{
+	float:none;
+	position:absolute;
+	width:75%;
+	height:100px;
+	margin:auto;
+	background:green;
+}

@@ -1,0 +1,35 @@
+.about_body
+{
+	width:100%;
+	float:left;
+	background-image:url('../images/back7.jpg');
+}
+.about_container
+{
+	width:40%;
+	margin-top:100px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:100px;
+	border-radius:20px;
+}
+.about_head
+{
+	width:100%;
+	padding:15px;
+	background-color:#036;
+	color:white;
+	border-top-left-radius:20px;
+	border-top-right-radius:20px;
+}
+.about_below
+{
+	width:100%;
+	padding:15px;
+	background-color:#FF9;
+	color:#303;
+	font-size:22px;
+	opacity:0.7;
+	border-bottom-left-radius:20px;
+	border-bottom-right-radius:20px;
+}

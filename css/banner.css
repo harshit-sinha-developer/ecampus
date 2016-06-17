@@ -1,0 +1,57 @@
+.banner{
+        margin-top:0px;
+		height:400px;
+		width:100%;
+		margin:auto;
+		position:relative;
+   		float:left;
+	}
+    #a{
+		height:400px;
+		width:100%;
+		border-radius:inherit;
+		margin:inherit;
+		float:none;		
+	}
+	.left{
+		position:absolute;
+		margin-top:150px;
+		opacity:0.50;
+		z-index:1;
+		float:left;
+                margin-left:0px;
+                border-radius:30px;
+	}
+	.left:hover{
+		opacity:.90;
+	}
+	.right{
+		right:0;
+		position:absolute;
+		opacity:0.50;
+		margin-top:150px;
+                margin-right:0px;
+		z-index:1;
+                border-radius:30px;
+	}
+	.right:hover{
+		opacity:.90;
+	}
+        .txt{
+		width:20%;
+		position:absolute;
+		right:10px;
+		bottom:10px;
+		background:white;
+		opacity:.70;
+                border-radius:25px;
+		
+	}
+        .txt:hover{
+		opacity:1.00;
+	}
+	.txt h2{color:black;
+	
+	padding:10px;
+	text-align:center;}
+

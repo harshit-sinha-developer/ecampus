@@ -1,0 +1,35 @@
+.book_head
+{
+	padding:15px;
+	background-color:#036;
+	color:white;
+	border-top-left-radius:20px;
+	border-top-right-radius:20px;
+}
+.book_body
+{
+	width:100%;
+	float:left;
+	background-image:url('../images/back6.jpg');
+}
+.tbl
+{
+	width:50%;
+	border:1px solid black;
+	margin-top:100px;
+	margin-right:auto;
+	margin-left:auto;
+	margin-bottom:100px;
+	box-shadow:0px 0px 20px #FF0000;
+	border-radius:20px;
+	background-color:white;
+	opacity:0.7;
+}
+
+.tbl_t{
+	padding:15px;
+}
+.tbl_i
+{
+	padding:15px;
+}
