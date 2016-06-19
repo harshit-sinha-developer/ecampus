@@ -1,1 +1,0 @@
-This is ecampus an online education website.
